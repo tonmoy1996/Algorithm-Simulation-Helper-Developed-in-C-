@@ -1,0 +1,33 @@
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\AlgorithmSimulator.csproj.GenerateResource.Cache
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.Main.resources
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.Form1.resources
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\bin\Debug\MetroFramework.dll
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.StackAndQueue.resources
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\bin\Debug\MetroFramework.Design.dll
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\bin\Debug\MetroFramework.Fonts.dll
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.Search.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.Login.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.Main.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.Search.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.Form1.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.StackAndQueue.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\AlgorithmSimulator.csproj.GenerateResource.Cache
+F:\Vault\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+F:\Vault\Algorithm\Algorithm\bin\Debug\user_info.mdf
+F:\Vault\Algorithm\Algorithm\bin\Debug\user_info_log.ldf
+F:\Vault\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+F:\Vault\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+F:\Vault\Algorithm\Algorithm\bin\Debug\MetroFramework.Design.dll
+F:\Vault\Algorithm\Algorithm\bin\Debug\MetroFramework.dll
+F:\Vault\Algorithm\Algorithm\bin\Debug\MetroFramework.Fonts.dll
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.Register.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\Algorithm.Main2.resources
+F:\Vault\Algorithm\Algorithm\obj\Debug\AlgorithmSimulator.csprojResolveAssemblyReference.cache

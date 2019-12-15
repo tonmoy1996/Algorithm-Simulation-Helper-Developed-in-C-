@@ -1,0 +1,32 @@
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.Form1.resources
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.GenerateResource.Cache
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\THARINDU\Downloads\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.Form1.resources
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.GenerateResource.Cache
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\obj\Debug\Algorithm.Form1.resources
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MIHIRAN\Desktop\Algorithm\Algorithm\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.Form1.resources
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.GenerateResource.Cache
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+G:\download\pl aib\c#\c# final project\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
